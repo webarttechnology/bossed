@@ -1,0 +1,283 @@
+@media only screen and (max-width: 1024px){
+    .header-part .stellarnav>ul>li>a {
+        padding: 20px 2px;
+    }
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 820px) {
+    .about-image img {
+        width: 100%;
+    }
+
+    .header-part .stellarnav.mobile,
+    .stellarnav.mobile.fixed {
+
+        text-align: end;
+    }
+
+    .stellarnav .menu-toggle span.bars span {
+        background: #fff;
+    }
+
+    .header-part .stellarnav.mobile ul {
+        /* background: #fff; */
+        color: #000;
+    }
+
+    .header-part .stellarnav>ul>li>a {
+        color: #000;
+    }
+
+    .header-part .stellarnav>ul>li>a:hover {
+        color: #eb4226;
+    }
+
+    .get-button {
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 51px;
+    }
+
+    .form-floating>label {
+        font-size: 12px;
+    }
+
+    .form-floating>.form-control,
+    .form-floating>.form-select {
+        height: 50px;
+    }
+
+    .banner-submit {
+        width: 153px;
+        height: 48px;
+        font-size: 20px;
+    }
+    .banner-form h5 {
+        padding-bottom: 12px;
+        font-size: 17px;
+    }
+    .banner-form {
+        padding: 37px 34px;
+    }
+    .content p {
+        font-size: 19px;
+    }
+    .faq-box .accordion-container {
+        margin-top: 0rem;
+    }
+  .footer-part{
+    text-align: center;
+  }
+  .footer-icon{
+    justify-content: center;
+  }
+  .footer-part .btn.btn-link {
+    display: flex;
+    justify-content: center;
+}
+.bottom-text1 {
+    text-align: center;
+}
+.bottom-text {
+    text-align: center;
+}
+
+}
+
+
+@media only screen and (max-width: 769px) {
+    .about-image img {
+        width: 100%;
+    }
+
+    .header-part .stellarnav.mobile,
+    .stellarnav.mobile.fixed {
+
+        text-align: end;
+    }
+
+    .stellarnav .menu-toggle span.bars span {
+        background: #fff;
+    }
+
+    .header-part .stellarnav.mobile ul {
+        /* background: #fff; */
+        color: #000;
+    }
+
+    .header-part .stellarnav>ul>li>a {
+        color: #000;
+    }
+
+    .header-part .stellarnav>ul>li>a:hover {
+        color: #eb4226;
+    }
+
+    .get-button {
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 51px;
+    }
+
+    .form-floating>label {
+        font-size: 12px;
+    }
+
+    .form-floating>.form-control,
+    .form-floating>.form-select {
+        height: 50px;
+    }
+
+    .banner-submit {
+        width: 153px;
+        height: 48px;
+        font-size: 20px;
+    }
+    .banner-form h5 {
+        padding-bottom: 12px;
+        font-size: 17px;
+    }
+    .banner-form {
+        padding: 37px 34px;
+    }
+    .content p {
+        font-size: 19px;
+    }
+    .faq-box .accordion-container {
+        margin-top: 0rem;
+    }
+  .footer-part{
+    text-align: center;
+  }
+  .footer-icon{
+    justify-content: center;
+  }
+  .footer-part .btn.btn-link {
+    display: flex;
+    justify-content: center;
+}
+.bottom-text1 {
+    text-align: center;
+}
+.bottom-text {
+    text-align: center;
+}
+
+}
+@media only screen and (max-width: 479px){
+    .call-text{
+        text-align: center;
+    }
+    .call-text h2{
+        font-size: 18px;
+    }
+    .blue-cta-button{
+        font-size: 17px;
+    }
+    .banner-text h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .banner {
+        padding: 80px 0;
+    }
+    .content{
+        margin-bottom: 1rem;
+    }
+    .business{
+        padding: 70px 0;
+    } 
+    .faq h2 {
+        font-size: 29px;
+    }
+    .faq p {
+        font-size: 17px;
+      
+    }
+    .faq-box .accordion-container {
+        margin-top: 2rem;
+    }
+    .faq-box {
+        margin-left: 0;
+    }
+    .faq-box .accordion-header{
+        font-size: 17px;
+    }
+    .finacing {
+        padding: 8px 0;
+    }
+    .finacing-text h2 {
+        font-size: 33px;
+    }
+    .finacing-text p {
+        font-size: 12px;
+    } 
+    .finacing .card h2 {
+        font-size: 23px;
+    }
+    .finacing .card-body{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 320px){
+    .call-text h2{
+        font-size: 14px;
+    }
+    .banner {
+        padding: 70px 0;
+    }
+    .banner-text h1 {
+        font-size: 23px;
+    }
+    .about-part h1{
+        font-size: 18px;
+    }
+    .about-part p{
+        font-size: 12px;
+    }
+    .faq h2 {
+        font-size: 23px;
+    }
+    .faq p {
+        font-size: 15px;
+    }
+    .finacing .card h2 {
+        font-size: 18px;
+    }
+    .content h2 {
+        padding: 20px 0 0 0;
+        font-size: 27px;
+        font-weight: 800;
+        color: #fff;
+    }
+    .stellarnav .menu-toggle span.bars {
+        display: inline-block;
+        margin-right: 7px;
+        position: relative;
+        top: -10px;
+    }
+
+}
+@media only screen and (max-width: 280px){
+    .banner-text h1 {
+        font-size: 20px;
+    }
+    .bottom-text1 p{
+        font-size: 12px;
+    }
+    .bottom-text {
+        font-size: 13px;
+    }
+}
